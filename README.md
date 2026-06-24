@@ -81,9 +81,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Class Scheduling System](https://github.com/yourusername/class-scheduling-system) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | PHP, MySQL, JavaScript |
-| [Academic Early Warning System](https://github.com/yourusername/academic-early-warning-system) | An AI-powered system that flags at-risk students early using predictive analytics (XGBoost) | Python, XGBoost, MySQL |
-| [Queueless System (SaaS)](https://github.com/yourusername/queueless-system) | A SaaS platform that eliminates physical queues through digital queue management | React, Node.js, MongoDB |
+| [Class Scheduling System](https://github.com/yourusername/class-scheduling-system) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | React, MongoDB Atlas, JavaScript |
+| [Academic Early Warning System](https://github.com/yourusername/academic-early-warning-system) | An AI-powered system that flags at-risk students early using predictive analytics (XGBoost) | Python, XGBoost, MongoDB Atlas |
+| [Queueless System (SaaS)](https://github.com/yourusername/queueless-system) | A SaaS platform that eliminates physical queues through digital queue management | PHP, Laravel, MySQL |
 
 ---
 
