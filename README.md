@@ -9,8 +9,10 @@
 
 ### 🚀 About Me
 
+- 🎓 Upcoming 4th year IT student at **Bukidnon State University**
 - 🔭 I'm currently working on full-stack web applications using **React**, **Node.js**, and **PHP**
 - 🌱 I'm currently exploring **Machine Learning** and **AI** integration into web apps
+- 🌐 Experience in **CCNA 1 - 4** (networking fundamentals & routing/switching)
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, Java, Python, MySQL, NoSQL**
 - 📫 How to reach me: **ian.quimbo2004@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working software!
