@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer | ML & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ryuen-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -67,12 +67,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryuen-1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuen-1&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuen-1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 ---
@@ -81,12 +81,23 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Class Scheduling System](https://github.com/yourusername/class-scheduling-system) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | React, MongoDB Atlas, JavaScript |
-| [Academic Early Warning System](https://github.com/yourusername/academic-early-warning-system) | An AI-powered system that flags at-risk students early using predictive analytics (XGBoost) | Python, XGBoost, MongoDB Atlas |
-| [Queueless System (SaaS)](https://github.com/yourusername/queueless-system) | A SaaS platform that eliminates physical queues through digital queue management | PHP, Laravel, MySQL |
+| [Class Scheduling System](https://github.com/Ryuen-1/class-scheduling-system) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | React, MongoDB Atlas, JavaScript |
+| [Academic Early Warning System](https://github.com/Ryuen-1/FINAL-AEWS) | An AI-powered system that flags at-risk students early using predictive analytics (XGBoost) | Python, XGBoost, MongoDB Atlas |
+| [Queueless System (SaaS)](https://github.com/Ryuen-1/Wbsys) | A SaaS platform that eliminates physical queues through digital queue management | PHP, Laravel, MySQL |
 
 ---
 
 ### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.facebook.com/Seishourou" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:ian.quimbo2004@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Ryuen-1">Ian Carlo Quimbo</a></i></p>
