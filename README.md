@@ -81,7 +81,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Class Scheduling System](https://github.com/Ryuen-1/class-scheduling-system) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | React, MongoDB Atlas, JavaScript |
+| [Class Scheduling System](https://github.com/Ryuen-1/Class-Scheduling-Project-) | A system designed to automate and manage class scheduling, reducing conflicts and manual workload | React, MongoDB Atlas, JavaScript |
 | [Academic Early Warning System](https://github.com/Ryuen-1/FINAL-AEWS) | An AI-powered system that flags at-risk students early using predictive analytics (XGBoost) | Python, XGBoost, MongoDB Atlas |
 | [Queueless System (SaaS)](https://github.com/Ryuen-1/Wbsys) | A SaaS platform that eliminates physical queues through digital queue management | PHP, Laravel, MySQL |
 
